@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Czujnik włamania</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="enable_detector">Włącz czujnik</string>
+    <string name="disable_detector">Wyłącz czujnik</string>
+    <string name="status">Status</string>
+    <string name="choose_mode">Wybierz tryb urządzenia</string>
+    <string name="accept_device_mode">Zaakceptuj rodzaj urządzenia</string>
+    <string name="detector">Czujnik</string>
+    <string name="receiver">Odbiornik</string>
+    <string name="title_activity_application_mode_chooser">Czujnik włamania - konfiguracja</string>
+    <string name="receiver_ip_address">Adres IP odbiornika</string>
+    <string name="synchronize_with_detector">Synchronizuj z czujnikiem</string>
+    <string name="time_interval_of_status_notification">Częstość powiadomień</string>
+    <string name="port_number">Numer portu</string>
+    <string name="loading_ip_address">Pobieranie adresu IP....</string>
+    <string name="error_while_reading_ip">Wystąpił błąd podczas pobierania adresu IP</string>
+    <string name="detector_is_enabled">Czujnik został wyłączony</string>
+    <string name="title_activity_burglary_receiver">Odbiornik</string>
+    <string name="detector_not_bind">Czujnik nie jest połączony</string>
+    <string name="detector_service_detect_intrusion">Wykrycie włamania</string>
+    <string name="detector_service_has_error">Wystąpił błąd w usłudze czujnika</string>
+    <string name="detector_service_is_disabled">Usługa czujnika jest nieaktywna</string>
+    <string name="detector_service_is_enabled">Usługa czujnika jest aktywna</string>
+    <string name="detector_service_is_offline">Usługa czujnika jest w trybie offline</string>
+    <string name="error_while_binding_to_detector_serivce">Wystąpił błąd podczas łączenia z usługą czujnika</string>
+    <string name="receiver_port_label">Numer portu odbiornika</string>
+    <string name="sent_packets">Wysłane pakiety</string>
+    <string name="seconds">sekund</string>
+    <string name="error_while_enablig_detector_service">Wystąpił błąd podczas aktywowania usługi czujnika</string>
+    <string name="error_while_disabling_service">Wystąpił błąd podczas dezaktywowania usługi czujnika</string>
+</resources>

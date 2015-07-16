@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Intrusion detector</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_detector">Enable detector</string>
+    <string name="disable_detector">Disable detector</string>
+    <string name="status">Status</string>
+    <string name="title_activity_application_mode_chooser">Intrusion detector - configuration</string>
+    <string name="choose_mode">Choose device mode</string>
+    <string name="accept_device_mode">Accept device mode</string>
+    <string name="receiver">Receiver</string>
+    <string name="detector">Detector</string>
+    <string name="title_activity_burglary_receiver">Receiver</string>
+    <string name="receiver_ip_address">Receiver IP address</string>
+    <string name="synchronize_with_detector">Synchronize with detector</string>
+    <string name="port_number">Port number</string>
+    <string name="loading_ip_address">Loading IP address ...</string>
+    <string name="error_while_reading_ip">Error occurred while reading IP address</string>
+    <string name="detector_is_enabled">Detector has been enabled</string>
+    <string name="time_interval_of_status_notification">Notification frequency</string>
+    <string name="error_while_binding_to_detector_serivce">Error occurred while bingind to detector service</string>
+    <string name="detector_service_is_enabled">Detector service is enabled</string>
+    <string name="detector_service_is_disabled">Detector service is disabled</string>
+    <string name="error_while_disabling_service">Error occurred while disabling detector service</string>
+    <string name="error_while_enablig_detector_service">Error occurred while enabling detector service</string>
+    <string name="detector_service_is_offline">Detector service is offline</string>
+    <string name="detector_service_has_error">Error occurred in detector service</string>
+    <string name="detector_service_detect_intrusion">Intrusion detected</string>
+    <string name="detector_not_bind">Detector is not bind</string>
+    <string name="seconds">seconds</string>
+    <string name="receiver_port_label">Receiver port number</string>
+    <string name="sent_packets">Sent packets</string>
+</resources>
